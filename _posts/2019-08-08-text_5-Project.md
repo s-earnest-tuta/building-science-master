@@ -1,9 +1,9 @@
 ---
-title: Building Performance
+title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: ernest
+author: cotes
 date: 2019-08-08 11:33:00 +0800
-categories: [Learning notes]
+categories: [Technical articles]
 tags: [typography]
 pin: true
 math: true
@@ -14,16 +14,25 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-## Headings
+
+## Building Performance
+
+
+## Project
 
 
 
+## Site reviews
 
 
 
+## Technical notes
 
 
+## Building standards
 
+
+## QA/QC checklists
 
 
 
@@ -35,7 +44,3 @@ image:
 
 [^footnote]: The footnote source
 [^fn-nth-2]: The 2nd footnote source
-
-
-
-

@@ -16,7 +16,7 @@ timezone: America/Vancouver
 
 title: Building Science # the main title
 
-tagline: Building Performance # it will display as the subtitle
+tagline: Building Performance Journal # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal building performance journal.
