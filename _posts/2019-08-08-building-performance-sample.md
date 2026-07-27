@@ -4,7 +4,7 @@ description: Examples of text, typography, math equations, diagrams, flowcharts,
 author: ernest
 date: 2019-08-08 11:33:00 +0800
 categories: [Technical articles, Case Studies, Learning notes, Project documentaion, Professional storytelling]
-tags: [typography]
+tags: [building-science, energy-efficiency, building-performance, sustainable-building, high-performance-buildings, building-envelope, energy-modeling, indoor-environment-quality, climate-resilient-design, green-building ]
 pin: true
 math: true
 mermaid: true
@@ -18,9 +18,18 @@ image:
 
 
 
+- building-science
+  - building-performance
+  - energy-efficiency
+  - sustainable-building
+  - high-performance-buildings
+  - building-envelope
+  - energy-modeling
+  - indoor-environment-quality
+  - climate-resilient-design
+  - green-building
 
-
-
+building-science, energy-efficiency, building-performance, sustainable-building, high-performance-buildings, building-envelope, energy-modeling, indoor-environment-quality, climate-resilient-design, green-building
 
 
 
